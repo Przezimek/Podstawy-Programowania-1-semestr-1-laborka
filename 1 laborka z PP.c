@@ -1,3 +1,6 @@
+// rysuje mozajke c x b z kwadratow o boku dlugosci a
+// kwadraty z gwiazdek z przecinajacymi sie przekatnymi i wypelnieniem kazdej z czesci innym charem
+// podaj dlugosc boku kwadratu, ilosc kwadratow na wysokosc, ilosc kwadratow na szerokosc
 #include <iostream>
 
 using namespace std;
